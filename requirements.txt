@@ -1,0 +1,6 @@
+feature_engine
+numpy
+pandas
+scikit_learn
+scipy
+streamlit

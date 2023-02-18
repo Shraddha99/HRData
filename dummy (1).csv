@@ -1,0 +1,7 @@
+no_of_trainings,age,previous_year_rating,length_of_service,avg_training_score,department,region,gender,recruitment_channel,awards_won?,Bachelor's,Below Secondary,Master's & above
+1,24,4,12,77,1,31,0,1,0,1,0,0
+1,34,3,1,90,2,31,1,2,0,0,1,0
+1,45,5,5,7,4,31,0,1,1,0,0,1
+1,23,2,13,34,5,31,1,2,0,1,0,0
+1,54,3,3,56,7,31,1,1,1,0,1,0
+1,32,4,12,90,7,31,0,2,0,0,0,1
